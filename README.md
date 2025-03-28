@@ -124,10 +124,9 @@ plt.show()
 ```
 
 # OUTPUT:
-
-    ![Screenshot 2025-03-28 113827](https://github.com/user-attachments/assets/c4ae014e-4c57-4614-8865-f05908bc2ae7)
-    ![Screenshot 2025-03-28 113848](https://github.com/user-attachments/assets/3f9de34c-c26e-4000-a22d-d70a7908cb5c)
-    ![Screenshot 2025-03-28 113854](https://github.com/user-attachments/assets/83abc4db-78ed-487f-b807-335c74ee81a0)
+   ![Screenshot 2025-03-28 113827](https://github.com/user-attachments/assets/c4ae014e-4c57-4614-8865-f05908bc2ae7)
+   ![Screenshot 2025-03-28 113848](https://github.com/user-attachments/assets/3f9de34c-c26e-4000-a22d-d70a7908cb5c)
+   ![Screenshot 2025-03-28 113854](https://github.com/user-attachments/assets/83abc4db-78ed-487f-b807-335c74ee81a0)
 
 
 # RESULT:
